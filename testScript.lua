@@ -1,5 +1,5 @@
 function newTestFunction()
-  echo("Running the newTestfunction()\n")
+  echo("Running the newTestfunction() NEWER\n")
 end
 
-print("testScript.lua loaded!\n")
+echo("testScript.lua loaded!\n")
